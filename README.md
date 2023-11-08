@@ -22,4 +22,12 @@ npm install
 
 Then, you need add your `Personal Access Token` in `.env` file.
 
+Now, you can generate the `.flatpak` file to install the project in your machine.
+
+```bash
+npm run make
+```
+
+---
+
 Github Notifications is an open-sourced software licensed under the [MIT license](./LICENSE).
